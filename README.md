@@ -1,1 +1,1 @@
-# pr-banner-demo
+# pr-banner-demo - demo only
